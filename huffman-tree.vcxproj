@@ -121,6 +121,8 @@
     <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="Sample.HEX.txt" />
+    <Text Include="Sample.OUT.txt" />
     <Text Include="Sample.txt">
       <SubType>Designer</SubType>
     </Text>

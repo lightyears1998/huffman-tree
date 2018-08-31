@@ -18,6 +18,12 @@
     <Text Include="Sample.txt">
       <Filter>资源文件</Filter>
     </Text>
+    <Text Include="Sample.HEX.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Sample.OUT.txt">
+      <Filter>资源文件</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">

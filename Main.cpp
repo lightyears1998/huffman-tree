@@ -10,6 +10,6 @@ using namespace std;
 
 int main(int argc, char * argv[])
 {
-	DumpAndSaveBinary("Sample.txt", "Sample.HEX.txt");
-	RecoverFromBinary("Sample.HEX.txt", "Sample.OUT.txt");
+	DumpBinaryToFile("Sample.txt", "Sample.HEX.txt");
+	RecoverFromBinaryFile("Sample.HEX.txt", "Sample.OUT.txt");
 }
