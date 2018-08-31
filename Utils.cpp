@@ -1,11 +1,11 @@
 #include "Utils.h"
 
-void DumpBinary(string filename)
+void DumpBinary(const string& filename)
 {
 	cout << DumpBinaryToString(filename);
 }
 
-string DumpBinaryToString(string filename)
+string DumpBinaryToString(const string& filename)
 {
 	ifstream in(filename, ios::binary);
 	stringstream out;
@@ -19,19 +19,19 @@ string DumpBinaryToString(string filename)
 	return out.str();
 }
 
-void DumpBinaryToFile(string filename, string savename)
+void DumpBinaryToFile(const string& filename, const string& savename)
 {
 	ofstream(savename) << DumpBinaryToString(filename);
 }
 
-void RecoverFromBinaryFile(string savename, string filename)
+void RecoverFromBinaryFile(const string& savename, const string& filename)
 {
 	string binary;
 	getline(ifstream(savename), binary);
 	RecoverFromBinaryString(binary, filename);
 }
 
-void RecoverFromBinaryString(string binary, string filename)
+void RecoverFromBinaryString(const string& binary, const string& filename)
 {
 	stringstream src(binary);
 	ofstream out(filename, ios::binary);
