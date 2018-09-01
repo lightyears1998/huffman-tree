@@ -67,6 +67,18 @@ struct ByteOutputStream
 			}
 		}
 	}
+
+	// 输出4字节数据
+	void PutCode(uint32_t code)
+	{
+		out.write(reinterpret_cast<char *>(&code), 4);
+	}
+
+	// 输出单字节数据
+	void PutByte(unsigned char ch)
+	{
+		out.write(reinterpret_cast<char *>(&ch), 1);
+	}
 };
 
 // 从特定文件中读取紧凑字节流的工具
@@ -98,10 +110,20 @@ struct ByteInputStream
 		return cache;
 	}
 
-	// 读取整个字节
-	int ReadByte()
+	// 读取单字节数据
+	unsigned char ReadByte()
 	{
+		unsigned char buff;
+		in.read(reinterpret_cast<char *>(&buff), 1);
+		return buff;
+	}
 
+	// 读取4字节数据
+	uint32_t ReadCode()
+	{
+		uint32_t buff;
+		in.read(reinterpret_cast<char *>(&buff), 4);
+		return buff;
 	}
 
 	// 返回流中是否仍有剩余字节

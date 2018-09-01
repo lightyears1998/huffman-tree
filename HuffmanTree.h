@@ -111,8 +111,19 @@ struct HuffmanTree
 		// delete root;
 		ofstream out("out.txt", ios::binary);
 		content.clear();
+		code2ch.clear(), ch2code.clear();
 
 		ByteInputStream in(filename);
+		
+		uint32_t map_size = in.ReadCode();
+		while (map_size--)
+		{
+			uint32_t code = in.ReadCode();
+			unsigned char ch = in.ReadByte();
+			code2ch[code] = ch;
+			ch2code[ch] = code;
+		}
+
 		while (in.HasNext())
 		{
 			uint32_t buff = in.Get();
@@ -133,6 +144,15 @@ struct HuffmanTree
 		istringstream ss(content, ios::binary);
 		ByteOutputStream out(saveto);
 
+		uint32_t map_size = code2ch.size();  // 输出树的大小
+		out.PutCode(map_size);
+
+		for (auto it : code2ch)  // 输出树的结构
+		{
+			out.PutCode(it.first);
+			out.PutByte(it.second);
+		}
+
 		unsigned char buff;
 		while (ss.read(reinterpret_cast<char *>(&buff), 1))
 		{
@@ -144,7 +164,7 @@ struct HuffmanTree
 	// 恢复原始文件
 	void RetrieveSource(string saveto)
 	{
-		
+
 	}
 
 	// 建立树的结构后为树中的节点生成的哈夫曼编码
