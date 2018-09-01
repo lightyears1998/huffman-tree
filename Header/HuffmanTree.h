@@ -43,8 +43,7 @@ struct Node
 	}
 };
 
-// 关于Node的排序comp(a, b)
-// 当 a < b 时返回true
+// 关于Node *的排序
 struct CompareNodeByFrequency
 {
 	bool operator()(const Node * lhs, const Node * rhs)
@@ -67,13 +66,13 @@ struct HuffmanTree
 
 	~HuffmanTree()
 	{
-		delete root;
+		delete root; root = nullptr;
 	}
 
 	// 从源文件中构建哈夫曼树
 	void BuildFromSourceFile(string filename)
 	{
-		delete root;
+		delete root; root = nullptr;
 		content.clear();
 
 		ifstream src(filename, ios::binary);
@@ -108,8 +107,8 @@ struct HuffmanTree
 	// 从压缩文件中构建哈夫曼树
 	void BuildFromCompactFile(string filename)
 	{
-		// delete root;
-		ofstream out("out.txt", ios::binary);
+		delete root; root = nullptr;
+		ofstream out("Temp/out.txt", ios::binary);
 		content.clear();
 		code2ch.clear(), ch2code.clear();
 
@@ -144,7 +143,7 @@ struct HuffmanTree
 		istringstream ss(content, ios::binary);
 		ByteOutputStream out(saveto);
 
-		uint32_t map_size = code2ch.size();  // 输出树的大小
+		uint32_t map_size = uint32_t(code2ch.size());  // 输出树的大小
 		out.PutCode(map_size);
 
 		for (auto it : code2ch)  // 输出树的结构
