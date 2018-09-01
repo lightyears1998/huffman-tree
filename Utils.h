@@ -69,6 +69,53 @@ struct ByteOutputStream
 	}
 };
 
+// 从特定文件中读取紧凑字节流的工具
+struct ByteInputStream
+{
+	ifstream in;
+	uint32_t cache;
+	unsigned char buff;
+	int buff_count;
+
+	ByteInputStream(string filename)
+	{
+		in = ifstream(filename, ios::binary);
+		cache = 0, buff = 0;
+		buff_count = 0;
+	}
+
+	// 读取下一个编码
+	uint32_t Get()
+	{
+		if (!buff_count) {
+			in.read(reinterpret_cast<char *>(&buff), 1);
+			buff_count = 8;
+		}
+		cache <<= 1;
+		cache |= (buff & (1U << 7)?1:0);
+		buff <<= 1;
+		--buff_count;
+		return cache;
+	}
+
+	// 读取整个字节
+	int ReadByte()
+	{
+
+	}
+
+	// 返回流中是否仍有剩余字节
+	bool HasNext()
+	{
+		return !in.eof();
+	}
+	
+	// 清除缓存的位
+	void Clear() {
+		cache = 0;
+	}
+};
+
 // 在标准输出流中显示指定文件的二进制编码
 // filename - 欲显示二进制编码的文件
 void DumpBinary(const string& filename);

@@ -58,7 +58,7 @@ struct HuffmanTree
 	Node * root;
 	map<uint32_t, unsigned char> code2ch;
 	map<unsigned char, uint32_t> ch2code;
-	string content;
+	string content;  // 文件的原始内容
 
 	HuffmanTree()
 	{
@@ -108,8 +108,23 @@ struct HuffmanTree
 	// 从压缩文件中构建哈夫曼树
 	void BuildFromCompactFile(string filename)
 	{
-		delete root;
+		// delete root;
+		ofstream out("out.txt", ios::binary);
 		content.clear();
+
+		ByteInputStream in(filename);
+		while (in.HasNext())
+		{
+			uint32_t buff = in.Get();
+			if (in.HasNext())
+			{
+				if (code2ch.count(buff))
+				{
+					out << code2ch[buff];
+					in.Clear();
+				}
+			}
+		}
 	}
 
 	// 生成压缩文件
@@ -129,7 +144,7 @@ struct HuffmanTree
 	// 恢复原始文件
 	void RetrieveSource(string saveto)
 	{
-
+		
 	}
 
 	// 建立树的结构后为树中的节点生成的哈夫曼编码

@@ -16,5 +16,5 @@ int main(int argc, char * argv[])
 	tr.BuildFromSourceFile("Sample.txt");
 	tr.DumpCode();
 	tr.GenerateCompactFile("Sample.CHEX.txt");
-	tr.RetrieveSource("Sample.R.txt");
+	tr.BuildFromCompactFile("Sample.CHEX.txt");
 }

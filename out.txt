@@ -1,0 +1,254 @@
+{{Infobox animanga/Header
+| image = Toradora! light novel volume 1 cover.jpg
+| caption = ''Toradora!'' light novel volume 1 cover, featuring Taiga Aisaka.
+| ja_kanji = とらドラ!
+| genre =  [[Comedy]], [[slice of life]]<ref>{{cite web |title=Toradora! |url=http://www.sevenseasentertainment.com/series/toradora/ |publisher=Seven Seas Entertainment |accessdate=June 25, 2018}}</ref>
+}}
+{{Infobox animanga/Print
+| type = light novel
+| author = [[Yuyuko Takemiya]]
+| illustrator = [[Yasu (illustrator)|Yasu]]
+| publisher = [[ASCII Media Works]]
+| publisher_en    = {{English manga publisher | NA = [[Seven Seas Entertainment]]}}
+| demographic = Male
+| imprint = [[Dengeki Bunko]]
+| magazine =
+| first = March 10, 2006
+| last = March 10, 2009
+| volumes = 10
+| volume_list = List of Toradora! volumes
+}}
+{{Infobox animanga/Print
+| type = light novel
+| title = Toradora Spin-off!
+| author = [[Yuyuko Takemiya]]
+| illustrator = [[Yasu (illustrator)|Yasu]]
+| publisher = [[ASCII Media Works]]
+| demographic = Male
+| imprint = [[Dengeki Bunko]]
+| magazine = [[Dengeki Bunko Magazine]]
+| first = May 10, 2007
+| last = April 10, 2010
+| volumes = 3
+| volume_list = List of Toradora! volumes#Toradora Spin-off!
+}}
+{{Infobox animanga/Print
+| type = manga
+| author = [[Yuyuko Takemiya]]
+| illustrator = Zekkyō
+| publisher = [[ASCII Media Works]]
+| publisher_en = {{English manga publishers|NA=[[Seven Seas Entertainment]]}}
+| demographic = ''[[Shōnen manga|Shōnen]]''
+| magazine = [[Dengeki Comic Gao!]] ''(former)''<br>[[Dengeki Daioh]]
+| first = September 2007
+| last =
+| volumes = 8
+| volume_list = List of Toradora! chapters
+}}
+{{Infobox animanga/Video
+| type = tv series
+| director = [[Tatsuyuki Nagai]]
+| producer = Takahiro Nakayama<br/>Takaaki Yuasa<br/>Shinichi Ikeda<br/>Muneyuki Kanbe<br/>Yuji Matsukura
+| writer = [[Mari Okada]]
+| music = [[Yukari Hashimoto]]
+| studio = [[J.C.Staff]]
+| licensee = {{English anime licensees|AUS=Hanabee|NA=[[Nippon Ichi Software|NIS America]]|UK=[[MVM Films]]}}
+| network = [[TV Tokyo]]
+| network_en      = {{English anime network
+  | PH  = [[TV5 (Philippines)|TV5]]
+}}
+| first = October 2, 2008
+| last = March 26, 2009
+| episodes = 25
+| episode_list = List of Toradora! episodes
+}}
+{{Infobox animanga/Game
+| developer = Guyzware
+| publisher = [[Namco Bandai Games]]
+| genre = [[Visual novel]]
+| platforms = [[PlayStation Portable]]
+| released = April 30, 2009
+}}
+{{Infobox animanga/Video
+| type = ova
+| director = [[Tatsuyuki Nagai]]
+| producer = 
+| writer = [[Mari Okada]]
+| music = 
+| studio = [[J.C.Staff]]
+| licensee = {{English anime licensee|AUS=Hanabee|NA=[[Nippon Ichi Software|NIS America]]|UK=[[MVM Films]]}}
+| released = December 21, 2011
+| runtime = 27 minutes
+}}
+
+{{Infobox animanga/Footer}}
+{{Nihongo|'''''Toradora!'''''|とらドラ!}} is a Japanese [[light novel]] series by [[Yuyuko Takemiya]], with illustrations by [[Yasu (illustrator)|Yasu]]. The series includes ten novels released between March 10, 2006 and March 10, 2009, published by [[ASCII Media Works]] under their [[Dengeki Bunko]] imprint.<ref name="franchise">{{cite web|archiveurl=https://web.archive.org/web/20090101015026/http://asciimw.jp/mediamix/toradora/|url=http://asciimw.jp/mediamix/toradora/|archivedate=January 1, 2009|title=''Toradora!'' media franchise website|publisher=[[ASCII Media Works]]|accessdate=January 28, 2015|language=Japanese}}</ref> Three volumes of a [[Spin-off (media)|spin-off]] light novel series were also created, aptly titled ''Toradora Spin-off!''. A [[manga]] adaptation by Zekkyō started serialization in the September 2007 issue of the [[shōnen manga]] magazine ''[[Dengeki Comic Gao!]]'', published by [[MediaWorks (publisher)|MediaWorks]]. The manga ended serialization in ''Dengeki Comic Gao!'' with the March 2008 issue, but continued serialization in ASCII Media Works' manga magazine ''[[Dengeki Daioh]]'' with the May 2008 issue.<ref name="daioh-May08"/>
+
+An [[Internet radio]] show was broadcast between September 2008 and May 2009 hosted by [[Animate|Animate TV]]. A 25-episode [[anime]] adaptation produced by [[J.C.Staff]] aired in Japan on [[TV Tokyo]] between October 2008 and March 2009.<ref name="onair"/> A Blu-ray Disc (BD) box set containing an [[original video animation]] episode was released on December 21, 2011. [[Nippon Ichi Software|NIS America]] licensed the anime and released it in North America in two half-season DVD collections in July and August 2010, with an English dubbed BD collection to be released in July 2014. A [[visual novel]] based on the series was released in April 2009 by [[Namco Bandai Games]] for the [[PlayStation Portable]].<ref name="dengeki1"/>
+
+The title ''Toradora!'' is derived from the names of the two main characters Taiga Aisaka and Ryūji Takasu. ''Taiga'' and {{Nihongo|''tora''|とら}} are Japanese terms for tiger, while ''Ryū'' means dragon. A [[Transcription (linguistics)|transcription]] of the English word ''dragon'' into Japanese is {{Nihongo|''doragon''|ドラゴン}}.<ref name="vol. 1 notes">{{cite book | title=Toradora Vol. 1 | author=Yuyuko Takemiya | others=Artwork: Zekkyou | at=Translation Notes | isbn=978-1-934876-94-7 }}</ref>
+
+==Plot==
+Ryuji Takasu is frustrated at trying to look his best as he enters his second year of high school. Despite his gentle personality, his eyes give him the appearance of an intimidating delinquent. He is happy to be classmates with his best friend Yusaku Kitamura, as well as the girl he has a crush on, Minori Kushieda. However, he unexpectedly runs into "the school's most dangerous animal of the highest risk level"—Taiga Aisaka—who just happens to be Minori's best friend. Taiga has a negative attitude towards others and has a habit of snapping violently at people. She takes an instant dislike to Ryuji, and it turns out she is living in an apartment facing Ryuji's house. When Ryuji discovers that Taiga has a crush on Yusaku, and Taiga finds out about Ryuji's affections towards Minori, they make an arrangement to help set each other up with their crushes.
+
+Over the course of the series, Ryuji and Taiga try to set up romantic situations to help each other get to know their friends, but many of the situations backfire. Their classmates observe that they are spending a lot of time with each other, leading to rumors that they might be a couple. Although Ryuji and Taiga try to dispel the rumors, they find that they do enjoy each other's company, with Taiga visiting Ryuji's house to share meals, and Ryuji checking up on Taiga to get her to school, and cleaning for her. They meet Yusaku's childhood friend Ami Kawashima, a popular teen model who transfers into their school. She appears to be friendly and is a self-proclaimed ditz, but beneath her facade is a rather mean and spoiled brat, and she quickly finds herself at odds with Taiga. In spite of this, Taiga tries to put up with her antics as Yusaku wants them to all get along, and Ami begins to grow feelings for Ryuji. The series follows the lives of these friends and how love blossoms among them.
+
+==Characters==
+
+===Main characters===
+[[File:Toradora! main characters.jpg|thumb|left|300px|The main characters of ''Toradora!'' (from left to right): Ryuji, Yusaku, Taiga, Minori, and Ami.]]
+;{{Nihongo|{{vanchor|Ryuji Takasu|Ryūji Takasu|Ryuuji Takasu}}|高須 竜児|Takasu Ryūji|Manga: Ryuuji Takasu}}<!-- "Ryuuji" used in manga, "Ryuji" used in anime -->
+:{{Voiced by|[[Junji Majima]]|[[Erik Scott Kimerer]]}}<ref name="toradora dub" /><ref name="nis staff">{{cite web|url=http://www.nisamerica.com/anime/toradora|title=Toradora!|publisher=[[NIS America]]|accessdate=April 29, 2016}}</ref><!-- click staff -->
+:The viewpoint character of the light novels, Ryuji is introduced as a second-year high school student with a mistaken reputation of being a delinquent because of his ''[[sanpaku]]'' (glaring) eyes. He lives with his single mother, his father having left before he was born. Because of this, Ryuji has learned to be self-sufficient: he cooks and cleans, the latter to the point of compulsively cleaning up any messes he can find.<ref name="nis staff"/> He has a pet [[parakeet]] named {{Nihongo|"Inko-chan"|インコ|Inko|lit. "parakeet"}} He has a longstanding crush on the cheerful and pretty classmate Minori Kushieda. After Ryuji meets Taiga Aisaka, he often helps her with domestic chores, and develops a new reputation as the "only person able to stop the Palmtop Tiger" as well as having to fend off rumors that the two might be a couple.{{Ref|Chapter|Vol. 1}} Although he does not have a romantic interest in Taiga, he determines he wants to look after her, help her out as much as possible, and to be friends with her.
+:Due to the misunderstandings caused by his appearance, as well as his family situation, he tends to have low self-esteem. In spite of this, he is rather calm in most situations and is responsible, smart, and has great grades, even compared to Yusaku Kitamura, his best friend. In seeming contrast to his intimidating looks, Ryuji actually prefers avoiding serious conflicts and tends to put others first, to the point of losing sight of what he really wants in life.{{volume needed|date=May 2016}}
+:In the light novels, he sees a tender side of Taiga that she hides from everyone.  In the anime, he is dense when it comes to girls' feelings, especially when it comes to Taiga, Minori, and Ami. While initially seen as intimidating by most, he still manages to make good friends. His relationship with Taiga begins to change as he spends more time with her throughout the series. Eventually, he falls in love with Taiga and they become a couple at the end of the series.
+;{{Nihongo|{{vanchor|Taiga Aisaka}}|逢坂 大河|Aisaka Taiga}}
+:{{Voiced by|[[Rie Kugimiya]]|[[Cassandra Lee Morris]]}}<ref name="toradora dub" /><ref name="nis staff"/>
+:The other title character of the series, Taiga is a girl in Ryuji's class. She has a beautiful appearance, but dislikes the company of others, with the exception of her best friend Minori Kushieda. Because of her tendency to snap fiercely at others, and because of her diminutive stature (4 feet 8 inches in manga, 4 feet 7 inches in anime), Taiga's nickname is {{Nihongo|"Palmtop Tiger"|手乗りタイガー|Te Nori Taigā}}. She often receives confessions of love from boys due to her cute, or as Ryuji puts it, "doll-like" appearance, but she turns down every single one. Despite her reputation, she is actually a clumsy girl who is very shy and awkward around her crush Kitamura.{{Ref|Chapter|Vol. 1}}<ref name="nis staff"/> Despite coming from a well-to-do family, her life with them was very difficult because of various problems. She lived with her father and step-mother and constantly fought with them,{{Ref|Chapter|Ch. 5}} eventually moving out and living on her own. Having come from a privileged household, she does not know how to do any domestic chores. Upon meeting Ryuji and learning of his domestic talents, she relies on him to cook for her.{{Ref|Chapter|Vol. 1, 2}} Aside from sleeping in her own apartment and going to school, she spends most of her time at Ryuji's house, so much so that his mother considers her a member of the family.{{Ref|Chapter|Vol. 1}} Eventually she falls in love with Ryuji and they become a couple at the end of the series.
+;{{Nihongo|{{vanchor|Minori Kushieda}}|櫛枝 実乃梨|Kushieda Minori}}
+:{{Voiced by|[[Yui Horie]]|[[Christine Marie Cabanos]]}}<ref name="toradora dub" /><ref name="nis staff"/>
+:Minori is a cheerful classmate who is Ryuji's crush and Taiga's best friend. She is captain of the girls' softball club.{{Ref|Chapter|Vol. 1}} She tends to be air-headed at times, although it is later revealed that she is very perceptive, being one of the few people to see Ryuji for the gentle person he is, and is also not fooled by Ami's facade.{{Ref|Chapter|Ch. 15}} When she hears rumors that Ryuji and Taiga are a couple, she pulls both of them aside and begs Ryuji to take good care of Taiga. She works many part-time jobs preferring to keep herself busy.{{Ref|Chapter|Vol. 2}}<ref name="nis staff"/> She enjoys food, having once made a whole tub of pudding,{{Ref|Chapter|Ch. 1}} and teaming up with Taiga as a struggling "diet soldier".{{Ref|Chapter|Ch. 18}} She is capable in cooking and cleaning as a result of her part-time jobs as well as taking care of her little brother while both her parents work.{{Ref|Chapter|Ch. 34, 38}} She is fascinated by ghosts and hopes to meet one someday, and one time, she opens up with her feelings about love to Ryuji. {{Ref|Chapter|Vol. 6}}
+;{{Nihongo|{{vanchor|Yusaku Kitamura|Yūsaku Kitamura}}|北村 祐作|Kitamura Yūsaku}}<ref name="nis staff"/><!-- "Yusaku" used in manga and anime -->
+:{{Voiced by|[[Hirofumi Nojima]]|[[Johnny Yong Bosch]]}}<ref name="toradora dub" />
+:Yusaku is a Ryuji's classmate and initially his only friend. He is the vice-president of the student council, the class representative, and captain of the boys' softball club. Yusaku wears glasses, and has a diligent personality.<ref name="nis staff"/> Although he thinks he is poor at talking to girls, Ryuji observes that Yusaku is actually quite popular with them.{{Ref|Chapter|Vol. 1}} When Taiga confesses to him, he reveals that he had actually confessed to Taiga a year prior because she was so beautiful, but was rejected.{{Ref|Chapter|Vol. 2}} While not buried in student council activities, Yusaku exhibits an eccentric personality as demonstrated in a bonus chapter where he plays the President card game without any clue of the rules,{{Ref|Chapter|Vol. 4}} and a summer trip story where he wears just a towel around and randomly flashed the girls.{{Ref|Chapter|Vol. 5}} In a later storyline, it is revealed he had a crush on the student council president Sumire Kanō, but got so depressed over her departure that he bleached his hair.{{Ref|Chapter|Vol. 7}} His nickname is "Maruo".{{Ref|Chapter|Vol. 6, 7}}
+<!-- NEED SOURCE AND RELEVANCE
+:A running gag in the series is that he often appears around Taiga and Ryuji while they are discussing a "plan of attack" to get closer to their crushes. Like Minori, he has an unusual personality, but often it is an expression of his friendship and appreciation, though it can easily get out of hand fast. Like Ami, he is unusually perceptive of what is going on around him and know people for they truly are deep down, though unlike his childhood friend, he prefers to have things run on their own instead of actively intervening in others' affairs despite his curiosity. After his graduation, he goes to study abroad in America, following in Sumire Kanō's footsteps.
+-->
+;{{Nihongo|{{vanchor|Ami Kawashima}}|川嶋 亜美|Kawashima Ami}}
+:{{Voiced by|[[Eri Kitamura]]|[[Erika Harlacher]]}}<ref name="toradora dub" /><ref name="nis staff"/>
+:Ami is Yusaku's childhood friend who transfers into his class midway through their second year of high school. She has been working as a fashion model, and is very popular with the guys and girls. However, behind the facade is a spoiled brat who looks down on everyone that she isn't trying to impress. Yusaku hopes that Ami will be honest with her true character, and not have such a dual nature.<ref name="nis staff"/> She develops a fierce rivalry with Taiga, and flirts with Ryuji to demonstrate how she can easily manipulate him to take him away. However, Ryuji and the other main characters are all aware of her true nature.{{Ref|Chapter|Vol. 2, 3}} In the storyline where she is trying to evade a stalker, she ends up depending on Ryuji and Taiga, although the latter blackmails her using footage of Ami's singing and reciting a list of Pokemon.{{Ref|Chapter|Vol. 3}} After seeing Taiga standing up to the stalker, she drops her sweet facade in front of Ryuji to chew out the stalker, and later asks Ryuji if he would come to love her real self.{{Ref|Chapter|Vol. 3}} Taiga calls her a dumb [[chihuahua (dog)|chihuahua]], even though Ami has no idea how such a description applies.{{Ref|Chapter|Ch. 29, 32}} She comes from a rich background; her family has a lavish vacation home that she takes Ryuji (and the gang) over the summer.{{Ref|Chapter|Vol. 4}} Over the course of the series, she becomes attracted to Ryuji despite regularly teasing him.{{Ref|Chapter|Vol. 5}}
+
+===Supporting characters===
+;{{Nihongo|{{vanchor|Yasuko Takasu}}|高須 泰子|Takasu Yasuko}}
+:{{Voiced by|[[Sayaka Ōhara]]|[[Karen Strassman]]}}<ref name="nis staff"/>
+:Ryuji's mother who works [[graveyard shift|nights]] at a [[Host and hostess clubs#Snack bars|hostess bar]].  She acts childish and like an airhead, depending on Ryuji to cook and clean for her. She is often seen getting in trouble with the landlady for whatever shenanigans go on in their apartment. She is proud that Ryuji is able to go to high school, something she was not able to complete. She initially claims that her husband died before he was born,{{Ref|Chapter|Vol. 1}} but it is later revealed that he left her instead.{{volume needed|date=April 2016}} She instantly takes a liking to Taiga and treats her like a family member.{{Ref|Chapter|Vol. 1}}
+;{{Nihongo|{{vanchor|Yuri Koigakubo}}|恋ヶ窪 ゆり|Koigakubo Yuri}}
+:{{Voiced by|[[Rie Tanaka]]|[[Carrie Keranen]]<ref>{{cite web|url=http://ikkicon.com/more-guests-coming-to-ikkicon/|title=More Guests Coming to IKKiCON|work=[[Ikkicon]]|date=November 27, 2014|accessdate=April 21, 2016|quote=Carrie Keranen was most recently heard as Satsuki Kiyuin in Kill la Kill and Mami in Madoka Magica as well as Yamraiha in Magi, Yuri Koigakubo, the teacher in Toradora|deadurl=yes|archiveurl=https://web.archive.org/web/20160304124545/http://ikkicon.com/more-guests-coming-to-ikkicon/|archivedate=March 4, 2016|df=}}</ref>}}<ref name="nis staff" />
+:Yuri is Ryuji's homeroom teacher. She has a reputation of telling long stories that class representative Kitamura stops immediately to dismiss the class.{{Ref|Chapter|Ch. 5}} She likes to do things at her own pace and is timid towards Taiga's way of speaking out. In the fifth volume of the light novel, she becomes concerned about getting into a relationship leading to marriage before she turns 30, but when that birthday comes, she develops a twisted and depressed personality, which is further aggravated whenever Taiga mentions that she is single.{{Ref|LN 5|LN 5}} <!-- She has interests in real estate which is a crutch for her being single. -->
+;{{Nihongo|{{vanchor|Kōji Haruta}}|春田 浩次|Haruta Kōji}}
+:{{Voiced by|[[Hiroyuki Yoshino (voice actor)|Hiroyuki Yoshino]]|[[Brian Beacock]]}}<ref name="nis staff"/>
+:Kōji is Ryuji's classmate who has long hair.{{Ref|Chapter|Ch. 6}}{{Ref|LN|LN 1 ch. 5}} He is regarded as a class 'idiot' and that opinion is deepened by his poor school marks and overly energetic behavior, stating obvious things like how pretty Ami is.{{Ref|Chapter|Ch. 47}} His childish pranks often target Taiga and as a result he has been the victim of her violent outbursts. Despite his overly energetic behavior, later in the series he is revealed to have a girlfriend.
+;{{Nihongo|{{vanchor|Hisamitsu Noto}}|能登 久光|Noto Hisamitsu}}
+:{{Voiced by|[[Kazuyuki Okitsu]]|[[Max Mittelman]]}}<ref name="nis staff"/>
+:Hisamitsu is a male student in Ryuji's class who wears glasses. He was also in Ryuji's class the previous year and is on good terms with him. He is first seen during the baseketball warmup scenario where he pairs up with Minori.{{Ref|LN|LN 1 ch 4,}}{{Ref|Chapter|Ch. 4, }}{{Ref|Episode|Ep. 2}} Noto begins to develop feelings for Maya Kihara following an argument they had during the class winter ski trip.
+;{{Nihongo|{{vanchor|Maya Kihara}}|木原 麻耶|Kihara Maya}}
+:{{Voiced by|[[Ai Nonaka]]|[[Mela Lee]]}}<ref name="nis staff"/>
+:Maya is Ryuji's attractive classmate who often hangs out with Nanako. She is a ''[[kogal]]'' and the center of the 'stand out group' of girls of class 2-C.{{Ref|Chapter|Ch. 27}} She ends up pairing with Yusaku in basketball warmups.{{Ref|LN|LN 1 ch 4,}}{{Ref|Chapter|Ch. 4, }}{{Ref|Episode|Ep. 2}} She has a crush on Yusaku, and she circuitously opposes the idea of Taiga and Yusaku being a couple, and wants Taiga and Ryuji to be together.
+;{{Nihongo|{{vanchor|Nanako Kashii}}|香椎 奈々子|Kashii Nanako}}
+:{{Voiced by|[[Momoko Ishikawa]]|[[Karen Strassman]]}}<ref name="nis staff"/>
+:Nanako is a female student in Ryuji's class who often hangs out with Maya and Ami.
+;{{Nihongo|{{vanchor|Sumire Kano|Sumire Kanou}}|狩野 すみれ|Kanō Sumire}}
+:{{Voiced by|[[Yūko Kaida]]|[[Wendee Lee]]<ref name="nis staff"/>}}
+:Sumire is the student council president. She has a strong-minded personality and inspires fellow students to follow her. Her parents own a supermarket.{{Ref|Chapter|Ch. 49}} Because she always gets the top marks for her class each year, her notes become one of the sought-after prizes in the school festival event.{{Ref|Chapter|Ch. 57}}  When she tells the council she plans to leave school early to study in the United States to become an astronaut, Yusaku is heartbroken that he dyes his hair and quits the council.{{Ref|Chapter|Vol. 7}}<!-- NEED SOURCE , and confesses his love for her in front of the whole school. She later confesses that she does love Kitamura, but doesn't tell him fearing that he'll chase after her to America.  -->
+;{{Nihongo|{{vanchor|Kōta Tomiie}}|富家 幸太|Tomiie Kōta}}
+:{{Voiced by|[[Nobuhiko Okamoto]]|Ben Giroux}}
+:Kōta is a first-year student who is the main character to ''Toradora Spin-off!''. He is generally unhappy about his life. He works on the student council in general affairs, and gets good grades. When first seen he has a completely mistaken idea what the term "palmtop tiger" refers to, and develops an insane crush on Taiga.  He later develops a crush on Sakura, and eventually succeeds in starting a romantic relationship with her.
+<!-- NEED NOTABILITY, NOT IN ORIGINAL LIST
+;{{Nihongo|{{vanchor|Sakura Kanō}}|狩野 さくら|Kanō Sakura}}
+:{{Voiced by|[[Kana Asumi]]|Faye Mata}}
+:Sakura is Sumire's younger sister who attends the same high school as Sumire though her grades are horrible. She unconsciously flirts with people, and like her sister, she hates snakes. She later starts going out with Kōta.
+;{{Nihongo|Kuroma|黒間}}
+:{{Voiced by|Nobuaki Kanemitsu|Sean Chiplock}
+:Kuroma is the thirty-four-year-old unmarried gym teacher at Ryuji's school. He enjoys [[strength training]] and improving his muscle mass.
+-->
+
+==Media==
+
+===Light novels===
+{{See also|List of Toradora! volumes}}
+''Toradora!'' began as a series of [[light novel]]s written by [[Yuyuko Takemiya]] and drawn by [[Yasu (illustrator)|Yasu]]. Ten novels were published by [[ASCII Media Works]] under their [[Dengeki Bunko]] imprint between March 10, 2006 and March 10, 2009.<ref name="franchise"/><ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-02-05/toradora-anime-original-novels-to-end-on-march-10|title=''Toradora!'' Anime's Original Novels to End on March 10|publisher=[[Anime News Network]]|date=February 5, 2009| accessdate=February 5, 2009}}</ref> There are four additional chapters not collected into volumes; three of which appeared in three separate light novel [[Anthology|anthologies]] released by [[MediaWorks (publisher)|MediaWorks]] in November 2006, March 2007, and November 2007, and the last chapter entitled ''Toradora!'' came with a [[plush]] tiger [[stuffed animal]] first released in April 2007.<ref>{{cite web|url=http://www.dengekiya.com/details.asp?prdid=T0624560|title=Dengekiya shop listing of the tiger stuffed animal from ''Toradora!''|publisher=[[ASCII Media Works]]|accessdate=February 14, 2008|language=Japanese}}</ref> [[Seven Seas Entertainment]] licensed series in North America, releasing the first volume on May 8, 2018.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2017-07-03/seven-seas-licenses-made-in-abyss-nameless-asterism-soul-liquid-chambers-getter-robo-devolution-manga/.118351|title=Seven Seas Licenses Made in Abyss, Nameless Asterism, Soul Liquid Chambers, Getter Robo Devolution Manga|publisher=[[Anime News Network]]|date=July 3, 2017|accessdate=July 3, 2017}}</ref>
+
+Three volumes of a [[Spin-off (media)|spin-off]] of the regular series under the title {{Nihongo|''Toradora Spin-off!''|とらドラ・スピンオフ!}} were also created. The first volume of the spin-off series was released on May 10, 2007 and compiled four chapters, three of which had been serialized in MediaWorks' now-defunct light novel magazine ''[[Dengeki hp]]'' between June 10, 2006 and February 10, 2007, and the last chapter was written especially for the volume release. A single chapter of the spin-off series, originally published in February 2006 in ''Dengeki hp'' was included in the second volume of the regular novel series. More chapters started serialization in ''Dengeki hp'''s successor ''[[Dengeki Bunko Magazine]]'' on December 10, 2007. Additional chapters of the main series started serialization in the same magazine on April 10, 2008. The second volume of ''Toradora Spin-off!'' was released on January 10, 2009 followed by the third volume on April 10, 2010. The third volume was released to commemorate the [[Tiger (zodiac)|Year of the Tiger]] (2010).
+
+===Manga===
+{{See also|List of Toradora! chapters}}
+A [[manga]] adaptation illustrated by Zekkyō started serialization in the September 2007 issue of [[MediaWorks (publisher)|MediaWorks]]' [[shōnen manga]] magazine ''[[Dengeki Comic Gao!]]''.<ref>{{cite web|archiveurl=https://web.archive.org/web/20080120020021/http://www.mediaworks.co.jp/magazine/backno/gao_200709.php|url=http://www.mediaworks.co.jp/magazine/backno/gao_200709.php|archivedate=January 20, 2008|title=''Dengeki Comic Gao!'' September 2007 issue|publisher=[[MediaWorks (publisher)|MediaWorks]]|accessdate=January 28, 2015|language=Japanese}}</ref> The manga ended its run in ''Dengeki Comic Gao!'' in the March 2008 issue, but continued serialization in [[ASCII Media Works]]' manga magazine ''[[Dengeki Daioh]]'' from the May 2008 issue.<ref name="daioh-May08">{{cite web|archiveurl=https://web.archive.org/web/20080630231131/http://www.mediaworks.co.jp/magazine/backno/dai_200805.php|url=http://www.mediaworks.co.jp/magazine/backno/dai_200805.php|archivedate=June 30, 2008|title=''Dengeki Daioh'' May 2008 issue|publisher=[[ASCII Media Works]]|accessdate=January 28, 2015|language=Japanese}}</ref><ref>{{cite web|url=http://www.animenewsnetwork.com/news/2008-01-25/inukami-honoka-baccano-1931-manga-to-end-in-japan|title= ''Inukami'', ''Honoka'', ''Baccano 1931'' Manga to End in Japan|publisher=[[Anime News Network]]|date=January 25, 2008|accessdate=January 30, 2008}}</ref> The first ''[[tankōbon]]'' volume was released on February 27, 2008 under ASCII Media Works' [[Dengeki Comics]] imprint; as of July 27, 2013, six volumes have been released.<ref>{{Cite book|script-title=ja:小冊子付 特装版 とらドラ! (6) (電撃コミックス)|language=Japanese|publisher=[[Amazon.co.jp]]|id= {{ASIN|4048916513|country=jp}}}}</ref> North American publisher [[Seven Seas Entertainment]] began publishing the series in English on March 1, 2011.<ref>{{cite web|url=http://www.animenewsnetwork.com/press-release/2010-07-20/seven-seas-acquires-manga-from-japan|title=Seven Seas Acquires 3 Red Hot Manga From Japan|publisher=[[Anime News Network]]|date=July 20, 2010|accessdate=July 20, 2010}}</ref><ref>{{cite web|url=http://www.gomanga.com/books/toradora!/141|title=SEVEN SEAS ENTERTAINMENT {{!}} ''Toradora!''|publisher=[[Seven Seas Entertainment]]|accessdate=February 5, 2014}}</ref>
+
+===Internet radio show===
+An [[Internet radio]] show to promote the [[anime]] series and other ''Toradora!'' media called {{Nihongo|''ToradoRadio!''|とらドラジオ!|Toradorajio!}} aired 38 episodes between September 4, 2008 and May 28, 2009 hosted by [[Animate|Animate TV]].<ref>{{cite web|url=http://www.animate.tv/digital/web_radio/detail_149.html|title=''Toradora!'' radio show official website|publisher=[[Animate]]|accessdate=October 10, 2008|language=Japanese|deadurl=yes|archiveurl=https://web.archive.org/web/20090225184248/http://www.animate.tv/digital/web_radio/detail_149.html|archivedate=February 25, 2009|df=}}</ref> The show was streamed online every Thursday, and was hosted by [[Junji Majima]] and [[Eri Kitamura]] who voiced Ryūji Takasu and Ami Kawashima from the anime, respectively. The show featured additional [[Seiyū|voice actors]] from the anime as guests.
+
+===Anime===
+{{See also|List of Toradora! episodes}}
+A ''Toradora!'' [[anime]] [[television series]] was first announced on a promotional advertisement for light novels being released under [[ASCII Media Works]]' [[Dengeki Bunko]] imprint for April 2008.<ref name="ANN-anime-news">{{cite web|url= http://www.animenewsnetwork.com/news/2008-04-02/award-winning-toradora-light-novels-to-be-animated|title=Award-winning ''Toradora!'' Light Novels to be Animated|publisher=[[Anime News Network]]|date=April 2, 2008|accessdate=April 2, 2008}}</ref> The anime is directed by [[Tatsuyuki Nagai]] and produced by the animation studio [[J.C.Staff]]. ''Toradora!'' contains 25 episodes, which aired between October 2, 2008 and March 26, 2009<!--After midnight on October 1--> on [[TV Tokyo]] in Japan.<ref name="onair">{{cite web|url= http://www.tv-tokyo.co.jp/contents/toradora/episodes/episodes1/index.html|title=''Toradora'' episode title listing|publisher=[[TV Tokyo]]|accessdate=December 1, 2008|language=Japanese}}</ref><ref>{{cite web|url= http://www.starchild.co.jp/special/toradora/onair.html|title=Air times at the anime's official website|publisher=[[King Records (Japan)|StarChild]]|accessdate=January 31, 2009|language=Japanese}}</ref> The episodes aired at later dates on [[AT-X (company)|AT-X]], [[Aichi Television Broadcasting|TV Aichi]], [[Television Hokkaido|TV Hokkaido]], [[Television Osaka|TV Osaka]], [[TV Setouchi]], and TVQ Kyushu Broadcasting. The anime premiered in the Philippines through [[Associated Broadcasting Company|TV5]] on May 18, 2009, one of the first to air it outside Japan.<ref>{{cite web|url=http://zohanime.multiply.com/journal/item/53/ZOH_Exclusive_E-Games_Cabal_EB_and_theres_something_about_Toradora|title=E-Games Cabal EB and there's something about ''Toradora!''|publisher=Zohanime|accessdate=May 12, 2009}}</ref> The first volume DVD compilation, which contains the first four episodes was released in Japan on January 21, 2009 by [[King Records (Japan)|King Records]] in limited and regular editions.<ref name="DVDs">{{cite web|url= http://www.starchild.co.jp/special/toradora/release_dvd.html|title=DVD section at the anime's official website|publisher=[[King Records (Japan)|StarChild]]|accessdate=January 31, 2009| language=Japanese}}</ref> Seven more DVD compilations, each containing three episodes, were released between February 25 and August 26, 2009 also in limited and regular editions.<ref name="DVDs"/> Starting from the second DVD, there were extra animated shorts included in the DVD volumes, ''Toradora SOS!'', which features the cast as [[chibi (Japanese term)|chibis]] trying out various foods. The ''Toradora!'' anime was licensed by [[Nippon Ichi Software|NIS America]] as its first anime.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2010-02-11/nis-america-licenses-toradora-as-its-first-anime|title=NIS America Licenses ''Toradora'' as Its First Anime|publisher=[[Anime News Network]]|date=February 11, 2010|accessdate=February 11, 2010}}</ref> The series was released in two half-season DVD compilation volumes in early July and late August 2010.<ref>{{cite web|url=http://nisamerica.com/toradora|title=Toradora!|publisher=[[Nippon Ichi Software|NIS America]]|accessdate=June 28, 2010}}</ref> A six-disc Blu-ray Disc box set, released in Japan on December 21, 2011, contains an [[original video animation]] (OVA) episode.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2011-09-11/toradora-bd-box-to-include-all-new-episode|title=''Toradora'' BD Box to Include All-New Episode|publisher=[[Anime News Network]]|date=September 11, 2011|accessdate=September 11, 2011}}</ref> It was broadcast in [[Italy]] on [[Rai 4]] between April 28 and October 13, 2011. NIS America re-released the series on Blu-ray on July 1, 2014, including the unreleased OVA and featuring an English dub.<ref name="toradora dub">{{cite web|url=http://www.animenewsnetwork.com/news/2014-03-12/nis-america-offers-toradora-blu-rays-with-english-dub|title=NIS America Offers Toradora! Blu-rays With English Dub|publisher=[[Anime News Network]]|date=March 12, 2014|accessdate=March 12, 2014}}</ref> [[MVM Films]] have licensed the Blu-ray collection in the United Kingdom.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2014-03-12/toradora-blu-ray-announced-by-mvm-for-2014|title=ToraDora Blu-ray Announced by MVM for 2014|publisher=[[Anime News Network]]|date=March 12, 2014|accessdate=March 12, 2014}}</ref>
+
+The anime series makes use of four pieces of [[theme music]]: two opening and two ending themes. The first opening theme is {{Nihongo|"Pre-Parade"|プレパレード|Pureparēdo}} by [[Rie Kugimiya]], [[Eri Kitamura]], and [[Yui Horie]].<ref>{{cite episode|title=Ryuji and Taiga (竜児と大河)|series=Toradora!|credits=[[Tatsuyuki Nagai]]|network=[[TV Tokyo]]|number=2|airdate=October 9, 2008|minutes=1:59}}</ref> The first ending theme is {{Nihongo|"Vanilla Salt"|バニラソルト|Banira Soruto}} by Horie.<ref>{{cite episode|title=Tiger and Dragon (虎と竜)|series=Toradora!|credits=[[Tatsuyuki Nagai]]|network=[[TV Tokyo]]|number=1|airdate=October 2, 2008|minutes=22:43}}</ref> The second opening is "Silky Heart" by Horie,<ref name="ep18">{{cite episode|title=Under the Fir Tree (もみの木の下で)|series=Toradora!|credits=[[Tatsuyuki Nagai]]|network=[[TV Tokyo]]|number=18|airdate=February 5, 2009|minutes=2:58}}</ref> and the second ending is {{Nihongo|"Orange"|オレンジ|Orenji}} by Kugimiya, Kitamura, and Horie.<ref name="ep18"/><ref>{{cite web|url=http://www.starchild.co.jp/special/toradora/release.html|title=Theme music single releases at the anime's official website|publisher=[[King Records (Japan)|StarChild]]|language=Japanese|archiveurl=https://web.archive.org/web/20110515035207/http://www.starchild.co.jp/special/toradora/release.html|archivedate=May 15, 2011|accessdate=May 25, 2014}}</ref> The insert theme for episode nineteen is {{Nihongo|"Holy Night"|ホーリーナイト|Hōrī Naito}} performed by Kugimiya and Kitamura.<ref>{{cite episode|title=Christmas Eve Festival (聖夜祭)|series=Toradora!|credits=[[Tatsuyuki Nagai]]|network=[[TV Tokyo]]|number=19|airdate=2009-02-12|minutes=23:03}}</ref> The anime's original soundtrack was released on January 7, 2009.<ref>{{cite web|url=http://www.starchild.co.jp/special/toradora/release_ost.html|title=Original soundtrack release at the anime's official website|publisher=[[King Records (Japan)|StarChild]]|language=Japanese|archiveurl=https://web.archive.org/web/20120419133731/http://www.starchild.co.jp/special/toradora/release_ost.html|archivedate=April 19, 2012|accessdate=May 25, 2014}}</ref><ref>{{cite web|url=http://www.cdjapan.co.jp/detailview.html?KEY=KICA-956|title=Tora Dora! Soundtrack|publisher=CD Japan|accessdate=October 5, 2009}}</ref>
+
+===Video games===
+A [[visual novel]] developed by Guyzware and published by [[Namco Bandai Games]] based on ''Toradora!'' is playable on the [[PlayStation Portable]], and was released on April 30, 2009.<ref name="dengeki1">{{cite web|url=http://news.dengeki.com/elem/000/000/111/111104/|title=Super Grade School Romantic Comedy ''Toradora!'' Get a PSP Game to be Sold in 2009!!|publisher=[[ASCII Media Works]]|date=October 11, 2008| accessdate=October 11, 2008|language=Japanese}}</ref><ref>{{cite web|url=http://dengekibunko.dengeki.com/news.php?2008/10/5/ec676013c5fc1219b38ed3706c35d932|title=A Bombshell at ''Toradora!''{{'}}s Stage Event!? A PSP Game Also Announced!!|publisher=[[ASCII Media Works]]|date=October 5, 2008| accessdate=October 10, 2008|language=Japanese}}</ref><ref>{{cite web|url=http://b.bngi-channel.jp/toradora/|title=''Toradora'' visual novel official website|publisher=[[Namco Bandai Games]]|accessdate=December 5, 2008|language=Japanese}}</ref> The player assumes the role of Ryuji Takasu where he moves around school and town, conversing with characters and working towards multiple endings as part of an original storyline. The game also features a minigame where players play as Taiga, fending off lovesick guys.
+
+Taiga is a playable character in the RPG, ''[[Dengeki Gakuen RPG: Cross of Venus]]'' for the [[Nintendo DS]], released on March 19, 2009 in Japan.<ref name="vadb rie"/><ref name="doi rie"/> She also appears as a cameo character and optional costume for the main character in [[Nippon Ichi Software]]'s ''[[Z.H.P. Unlosing Ranger VS Darkdeath Evilman]]'' for the PlayStation Portable. Taiga is also a playable character in the [[fighting game]] ''[[Dengeki Bunko: Fighting Climax]]'', with Ryuji as an assist character.<ref>{{cite web| url=http://www.animenewsnetwork.com/news/2014-05-09/toradora-taiga-the-irregular-at-magic-high-school-miyuki| title=''Toradora''{{'}}s Taiga, ''The Irregular at Magic High School''{{'}}s Miyuki Join ''Dengeki Bunko Fighting Climax''| date=May 9, 2014| work=[[Anime News Network]]| accessdate=December 19, 2015}}</ref> She also appears in ''[[Twinkle Crusaders| Twinkle Crusaders Starlit Brave]]'' released on September 30, 2010.<ref name="vadb rie"/>
+
+==Reception==
+The ''[[Mainichi Shimbun]]'' reported in April 2009 that over 3 million copies of the light novel series have been sold in Japan.<ref>{{cite web|archiveurl=https://web.archive.org/web/20110501072327/http://mantan-web.jp/2009/04/12/20090411mog00m200006000c.html|archivedate=May 1, 2011|url=http://mantan-web.jp/2009/04/12/20090411mog00m200006000c.html|script-title=ja:ラノベランキング :「とらドラ!」完結、「とある魔術の...」と電撃勢上位　09年3月|trans-title=Light Novel Ranking: ''Toradora!'' is Completed, and ''Toaru Majutsu no...'' and Dengeki are Ranked High March 2009|publisher=[[Mainichi Shimbun]]|date=April 12, 2009|accessdate=September 26, 2015|language=Japanese}}</ref> The light novel series has ranked four times in [[Takarajimasha]]'s light novel guide book ''[[Kono Light Novel ga Sugoi!]]'' published yearly: sixth in 2007, fourth in 2008 and 2010, and second in 2009.{{citation needed|date=July 2014}}<ref>{{cite web |title=発表迫る！このライトノベルがすごい！大賞を振り返り！ |url=https://toretame.jp/konorano-taishou-2016.html |publisher=Toreame |accessdate=August 16, 2018 |language=Japanese |date=September 1, 2017}}</ref> In [[Kadokawa Shoten]]'s first [[Light Novel Award]] contest held in 2007, ''Toradora!'' won an award in the [[romantic comedy]] category.<ref>{{cite web|url=http://www.kadokawa.co.jp/lightnovel-award/result.html|title=2007 Light Novel Award results|publisher=[[Kadokawa Shoten]]|accessdate=December 31, 2007|language=Japanese|deadurl=yes|archiveurl=https://web.archive.org/web/20081013055127/http://www.kadokawa.co.jp/lightnovel-award/result.html|archivedate=October 13, 2008|df=}}</ref><ref>{{cite web|url= http://www.animenewsnetwork.com/news/2007-09-01/kadokawa-announces-novel-awards|title=Kadokawa Announces 2007 Light Novel Awards|publisher=[[Anime News Network]]|date=September 1, 2007|accessdate=December 31, 2007}}</ref> The seventh volume of the ''Toradora!'' light novels was ranked tenth best selling between December 2007 and November 2008 by [[Amazon.com|Amazon.co.jp]].<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2008-12-04/amazon.co.jp-posts-2008-top-comics-light-novels|title=Amazon.co.jp Posts 2008's Top Comics, Light Novels|date=December 4, 2008|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> The second volume of the ''Toradora!'' manga was ranked 28th on the Tohan charts between March 3–9, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-03-18/japanese-comic-ranking-march-3-9|title=Japanese Comic Ranking, March 3–9|date=March 18, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> Taiga Aisaka became the champion of the eighth [[Anime Saimoe Tournament]] in 2009.<ref>{{cite web|url=http://ast2009.hp.infoseek.co.jp/|title=Anime Saimoe Tournament 2009|accessdate=October 17, 2009|publisher=[[2channel]]|language=Japanese|deadurl=yes|archiveurl=https://web.archive.org/web/20090723090647/http://ast2009.hp.infoseek.co.jp/|archivedate=July 23, 2009|df=}}</ref> The ''Toradora!'' anime was selected as a recommended work by the awards jury of the thirteenth [[Japan Media Arts Festival]] in 2009.<ref>{{cite web|url=http://plaza.bunka.go.jp/english/festival/2009/recommend/animation.php|title=2009 (13th) Japan Media Arts Festival Animation Division/Long Animation|publisher=[[Japan Media Arts Festival]]|accessdate=February 4, 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20100202212302/http://plaza.bunka.go.jp/english/festival/2009/recommend/animation.php|archivedate=February 2, 2010|df=}}</ref> In 2009, Rie Kugimiya won the Best Actress in the third [[Seiyu Awards]] partly for voicing Taiga Aisaka.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-03-05/3rd-annual-seiyu-award-winners-announced|title=3rd Annual Seiyū Award Winners Revealed|publisher=[[Anime News Network]]|date=March 5, 2009|accessdate=June 24, 2012}}</ref>
+
+The first ''Toradora!'' DVD was ranked 13th on the [[Oricon]] DVD chart between January 20–26, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-01-27/japanese-animation-dvd-ranking-january-20-26|title=Japanese Animation DVD Ranking, January 20–26|date=January 27, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> The second DVD was ranked 15th between February 24 and March 2, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-03-03/japanese-animation-dvd-ranking-february-24-march-2|title=Japanese Animation DVD Ranking, February 24-March 2|date=March 3, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> The third DVD was ranked 27th between March 24–30, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-03-31/japanese-animation-dvd-ranking-march-24-30|title=Japanese Animation DVD Ranking, March 24–30|date=March 31, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> The fourth DVD was ranked 17th between April 21–28, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-04-28/japanese-animation-dvd-ranking-april-21-28|title=Japanese Animation DVD Ranking, April 21–28|date=April 28, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> The fifth DVD was ranked 7th between May 25–31, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-06-02/japanese-animation-dvd-ranking-may-25-31|title=Japanese Animation DVD Ranking, May 25–31|date=2009-06-02|publisher=[[Anime News Network]]|accessdate=2009-11-14}}</ref> The sixth DVD was ranked 11th between June 22–28, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-06-30/japanese-animation-dvd-ranking-june-22-28|title=Japanese Animation DVD Ranking, June 22–28|date=June 30, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> The seventh DVD was ranked 19th between July 20–26, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-07-29/japanese-animation-dvd-ranking-july-20-26|title=Japanese Animation DVD Ranking, July 20–26|date=July 29, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> The eighth DVD was ranked 13th between August 24–30, 2009.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2009-09-02/japanese-animation-dvd-ranking-august-24-30|title=Japanese Animation DVD Ranking, August 24–30|date=September 2, 2009|publisher=[[Anime News Network]]|accessdate=November 14, 2009}}</ref> THEM Anime Review's Stig Høgset commends the anime for how it "actually resolves the relationship issue it set out to do instead of wimping out like so many romantic shows with several girls tends to do in an attempt to not make people angry or disappointed."<ref name="THEM">{{cite web|url=http://www.themanime.org/viewreview.php?id=1118|title=ToraDora|last=Høgset|first=Stig|publisher=THEM Anime Reviews|accessdate=November 14, 2009}}</ref> He also comments Taiga as the "genetical marriage" of Shana from ''[[Shakugan no Shana]]'' and Louise from ''[[Zero no Tsukaima]]''.<ref name="THEM"/> However, he also criticized "Taiga's continuous behavior, particularly towards Ryuji" and the introduction of Taiga's father in which Høgset "felt that the whole story arc jerked me around".<ref name="THEM"/>
+
+==Works cited==
+*{{note|LN|}} "LN" is shortened form for light novel and refers to a volume number of the ''Toradora!'' light novels.
+*{{note|Chapter|}} "Ch." and "Vol." are shortened form for chapter and volume, referring to the ''Toradora!'' manga
+*{{note|Episode|}} "Ep." is shortened form for episode of the ''Toradora!'' anime
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="vadb rie">{{cite web 
+| url=http://gph.sakura.ne.jp/va_memo/system/vadb.cgi?action=view_ind&value=00518&namecode=1
+| title=声優さん出演リスト 個別表示：釘宮理恵(Rie Kugimiya)
+| trans-title=Voice actor's appearance list individual display: Rie Kugimiya
+| work=Voice Artist Database 
+| publisher=GamePlaza-HARUKA- 
+| accessdate=June 12, 2016
+| date=April 6, 2016
+| language=Japanese}}</ref>
+
+<ref name="doi rie">{{cite web
+| url=http://www.usagi.org/doi/seiyuu/kugimiya-rie/roles.html
+| title=Kugimiya Rie roles | work=Hitoshi Doi's Seiyuu Database
+| accessdate=June 12, 2016
+| date=June 8, 2016
+| last=Doi | first=Hitoshi | authorlink=Hitoshi Doi}}
+</ref>
+}}
+
+==External links==
+{{wikiquote}}
+{{Commons category|Cosplay of Toradora!}}
+*[http://www.starchild.co.jp/special/toradora/ Anime official website] {{ja icon}}
+*[http://nisamerica.com/toradora ''Toradora!'' anime] at [[Nippon Ichi Software|NIS America]]
+*[http://www.gomanga.com/manga/toradora.php ''Toradora!'' manga] at [[Seven Seas Entertainment]]
+*[http://b.bngi-channel.jp/toradora/ Visual novel official website] {{ja icon}}
+*{{ann|light novel|12780}}
+
+{{Yuyuko Takemiya}}
+{{Mari Okada}}
+{{J.C.Staff}}
+
+[[Category:2006 Japanese novels]]
+[[Category:2007 manga]]
+[[Category:2008 anime television series]]
+[[Category:2009 video games]]
+[[Category:2011 anime OVAs]]
+[[Category:Anime and manga based on light novels]]
+[[Category:ASCII Media Works manga]]
+[[Category:Comedy anime and manga]]
+[[Category:Dengeki Bunko]]
+[[Category:Dengeki Comic Gao!]]
+[[Category:Dengeki Comics]]
+[[Category:Dengeki Daioh]]
+[[Category:Kadokawa Dwango franchises]]
+[[Category:J.C.Staff]]
+[[Category:Japan-exclusive video games]]
+[[Category:Japanese high school television series]]
+[[Category:Japanese serial novels]]
+[[Category:Light novels]]
+[[Category:Novels set in schools]]
+[[Category:PlayStation Portable games]]
+[[Category:PlayStation Portable-only games]]
+[[Category:School life in anime and manga]]
+[[Category:Screenplays by Mari Okada]]
+[[Category:Seven Seas Entertainment titles]]
+[[Category:Shōnen manga]]
+[[Category:Slice of life anime and manga]]
+[[Category:Television programs based on light novels]]
+[[Category:Video games developed in Japan]]
+[[Category:Visual novels]]
