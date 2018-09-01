@@ -13,8 +13,8 @@ using namespace std;
 int main(int argc, char * argv[])
 {
 	HuffmanTree tr;
-	tr.BuildFromSourceFile("Sample.txt");
+	tr.BuildFromSourceFile("Sample/Sample.txt");
 	tr.DumpCode();
-	tr.GenerateCompactFile("Sample.CHEX.txt");
-	tr.BuildFromCompactFile("Sample.CHEX.txt");
+	tr.GenerateCompactFile("Sample/Sample.CHEX.txt");
+	tr.BuildFromCompactFile("Sample/Sample.CHEX.txt");
 }
