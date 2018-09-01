@@ -113,6 +113,8 @@ struct ByteInputStream
 	// 读取单字节数据
 	unsigned char ReadByte()
 	{
+		if (!in.is_open()) return 0;
+
 		unsigned char buff;
 		in.read(reinterpret_cast<char *>(&buff), 1);
 		return buff;
@@ -121,6 +123,8 @@ struct ByteInputStream
 	// 读取4字节数据
 	uint32_t ReadCode()
 	{
+		if (!in.is_open()) return 0;
+
 		uint32_t buff;
 		in.read(reinterpret_cast<char *>(&buff), 4);
 		return buff;

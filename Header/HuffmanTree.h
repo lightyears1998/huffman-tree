@@ -14,21 +14,24 @@
 
 using namespace std;
 
-struct Node
+// 哈夫曼树中的节点
+struct HuffmanTreeNode
 {
-	int frequency;                            // 节点的频率
-	uint32_t code;                            // 节点的哈夫曼编码
-	unsigned char ch;                         // 节点的原始编码
-	Node *parent, *left_child, *right_child;  // 节点属性
+	int frequency;                                       // 节点的频率
+	uint32_t code;                                       // 节点的哈夫曼编码
+	unsigned char ch;                                    // 节点的原始编码
+	HuffmanTreeNode *parent, *left_child, *right_child;  // 节点属性
 
-	Node(int frequency, uint32_t code, unsigned char ch, Node * parent = nullptr, Node *left_child = nullptr , Node * right_child = nullptr)
+	// 使用频率、哈夫曼编码和字符构造节点
+	HuffmanTreeNode(int frequency, uint32_t code, unsigned char ch, HuffmanTreeNode * parent = nullptr, HuffmanTreeNode *left_child = nullptr, HuffmanTreeNode * right_child = nullptr)
 	{
 		this->frequency = frequency;
 		this->code = 0, this->ch = ch;
 		this->parent = parent, this->left_child = left_child, this->right_child = right_child;
 	}
 
-	Node(Node *lhs, Node *rhs)
+	// 合并两个节点为新节点
+	HuffmanTreeNode(HuffmanTreeNode *lhs, HuffmanTreeNode *rhs)
 	{
 		frequency = lhs->frequency + rhs->frequency;
 		code = 0, ch = 0;
@@ -36,29 +39,34 @@ struct Node
 		left_child = lhs, right_child = rhs;
 	}
 
-	~Node()
+	~HuffmanTreeNode()
 	{
 		if (left_child != nullptr) delete left_child;
 		if (right_child != nullptr) delete right_child;
+		left_child = right_child = nullptr;
 	}
 };
 
-// 关于Node *的排序
+// 此结构体用于以 CompareNodeByFrequency(HuffmanTreeNode * a, HuffmanTreeNode *b) 的形式排序节点
+// 频率较高的节点优先于频率较低的节点
+// 即 Comp(a, b) 当 (a->frequency) < (b->frequency) 时返回true
 struct CompareNodeByFrequency
 {
-	bool operator()(const Node * lhs, const Node * rhs)
+	bool operator()(const HuffmanTreeNode * lhs, const HuffmanTreeNode * rhs)
 	{
 		return lhs->frequency > rhs->frequency;
 	}
 };
 
+// 表示一棵哈夫曼树
 struct HuffmanTree
 {
-	Node * root;
-	map<uint32_t, unsigned char> code2ch;
-	map<unsigned char, uint32_t> ch2code;
-	string content;  // 文件的原始内容
+	HuffmanTreeNode * root;                 // 不为空时指向哈夫曼编码树的根节点
+	map<uint32_t, unsigned char> code2ch;   // 从哈夫曼编码到字符的映射
+	map<unsigned char, uint32_t> ch2code;   // 从字符到哈夫曼编码的映射
+	string content;                         // 原始文件内容，原始文件是指未经过哈夫曼编码压缩的文件
 
+	// 初始化一棵空哈夫曼树
 	HuffmanTree()
 	{
 		root = nullptr;
@@ -69,15 +77,20 @@ struct HuffmanTree
 		delete root; root = nullptr;
 	}
 
-	// 从源文件中构建哈夫曼树
+	// 从原始文件生成哈夫曼树，建立编码字符映射表
 	void BuildFromSourceFile(string filename)
 	{
 		delete root; root = nullptr;
+		code2ch.clear(), ch2code.clear();
 		content.clear();
 
 		ifstream src(filename, ios::binary);
+		if (!src.is_open()) {
+			cerr << "无法打开指定的文件：" + filename << endl;
+			return;
+		}
 
-		map<unsigned char, int> frequency;
+		map<unsigned char, int> frequency;  // 频率统计表
 
 		unsigned char buff;
 		while (src.read(reinterpret_cast<char *>(&buff), 1)) {
@@ -85,18 +98,18 @@ struct HuffmanTree
 			content += buff;
 		}
 		
-		priority_queue<Node*, vector<Node*>, CompareNodeByFrequency> que;
+		priority_queue<HuffmanTreeNode*, vector<HuffmanTreeNode*>, CompareNodeByFrequency> que;  // 用于构建哈夫曼树的优先队列
 		for (auto it : frequency)
 		{
-			Node * node = new Node(it.second, 0, it.first);
+			HuffmanTreeNode * node = new HuffmanTreeNode(it.second, 0, it.first);
 			que.push(node);
 		}
 
 		while (que.size() > 1)
 		{
-			Node * lhs = que.top(); que.pop();
-			Node * rhs = que.top(); que.pop();
-			Node * combine = new Node(lhs, rhs);
+			HuffmanTreeNode * lhs = que.top(); que.pop();
+			HuffmanTreeNode * rhs = que.top(); que.pop();
+			HuffmanTreeNode * combine = new HuffmanTreeNode(lhs, rhs);
 			que.push(combine);
 		}
 		
@@ -104,14 +117,12 @@ struct HuffmanTree
 		CodeNodes();
 	}
 
-	// 从压缩文件中构建哈夫曼树
+	// 从压缩文件中构建哈夫曼树，恢复字符映射表和原始文件内容
 	void BuildFromCompactFile(string filename)
 	{
 		delete root; root = nullptr;
-		content.clear();
 		code2ch.clear(), ch2code.clear();
-
-		// ofstream out("Temp/out.txt", ios::binary);
+		content.clear();
 
 		ByteInputStream in(filename);
 		
@@ -176,7 +187,7 @@ struct HuffmanTree
 	}
 
 	// 为特定森林生成哈夫曼编码
-	void CodeNodes(Node *node)
+	void CodeNodes(HuffmanTreeNode *node)
 	{
 		if (node->left_child) {
 			node->left_child->code = ((node->code) << 1);
@@ -202,7 +213,7 @@ struct HuffmanTree
 	}
 
 	// 向控制台打印特定特定森林中的所有节点的哈夫曼编码
-	void DumpCode(Node *node)
+	void DumpCode(HuffmanTreeNode *node)
 	{
 		if (node->left_child)
 			DumpCode(node->left_child);

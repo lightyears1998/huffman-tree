@@ -12,6 +12,6 @@ using namespace std;
 
 int main(int argc, char * argv[])
 {
-	Encode("Sample/Sample.txt", "Temp/s.txt");
-	Decode("Temp/s.txt", "Temp/o.txt");
+	Encode("Sample/Sample.txt", "压缩文件"); 
+	Decode("压缩文件", "解压的文件.txt");
 }
