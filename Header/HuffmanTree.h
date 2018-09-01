@@ -108,13 +108,14 @@ struct HuffmanTree
 	void BuildFromCompactFile(string filename)
 	{
 		delete root; root = nullptr;
-		ofstream out("Temp/out.txt", ios::binary);
 		content.clear();
 		code2ch.clear(), ch2code.clear();
 
+		// ofstream out("Temp/out.txt", ios::binary);
+
 		ByteInputStream in(filename);
 		
-		uint32_t map_size = in.ReadCode();
+		uint32_t map_size = uint32_t(in.ReadCode());
 		while (map_size--)
 		{
 			uint32_t code = in.ReadCode();
@@ -130,7 +131,7 @@ struct HuffmanTree
 			{
 				if (code2ch.count(buff))
 				{
-					out << code2ch[buff];
+					content += code2ch[buff];
 					in.Clear();
 				}
 			}
@@ -163,7 +164,8 @@ struct HuffmanTree
 	// 恢复原始文件
 	void RetrieveSource(string saveto)
 	{
-
+		ofstream out(saveto, ios::binary);
+		out << content;
 	}
 
 	// 建立树的结构后为树中的节点生成的哈夫曼编码

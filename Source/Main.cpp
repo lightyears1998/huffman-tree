@@ -12,9 +12,6 @@ using namespace std;
 
 int main(int argc, char * argv[])
 {
-	HuffmanTree tr;
-	tr.BuildFromSourceFile("Sample/Sample.txt");
-	tr.DumpCode();
-	tr.GenerateCompactFile("Temp/Sample.CHEX.txt");
-	tr.BuildFromCompactFile("Temp/Sample.CHEX.txt");
+	Encode("Sample/Sample.txt", "Temp/s.txt");
+	Decode("Temp/s.txt", "Temp/o.txt");
 }
